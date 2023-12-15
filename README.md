@@ -17,6 +17,10 @@ Furthermore, users have the flexibility to refine their movie reviews by leverag
 
 **Server:** Node, Express, MongoDB
 
+**Cloud Storage:** Cloudinary
+
+**Email Testing:** Mailtrap
+
 
 ## Steps to run the project on your machine
 
