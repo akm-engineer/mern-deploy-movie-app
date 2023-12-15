@@ -190,35 +190,9 @@ Certainly, we have flexibility in choosing deployment methods and platforms base
 
 Ultimately, the choice of deployment platforms depends on your project's specific needs, ease of use, and any specific features or integrations provided by each platform. Using platforms that specialize in their respective areas can be an efficient way to take advantage of their specific strengths.
 
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Related
-
-Here are some related projects
-
-[Awesome README](https://github.com/matiassingers/awesome-readme)
-
-
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
-
-
-## Appendix
-
-Any additional information goes here
-
+If you have any feedback, please reach out to us at ashishgk1999@gmail.com.
 
 ## License
 
