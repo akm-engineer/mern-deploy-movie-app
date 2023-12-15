@@ -191,3 +191,57 @@ Certainly, we have flexibility in choosing deployment methods and platforms base
 Ultimately, the choice of deployment platforms depends on your project's specific needs, ease of use, and any specific features or integrations provided by each platform. Using platforms that specialize in their respective areas can be an efficient way to take advantage of their specific strengths.
 
 
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+## Related
+
+Here are some related projects
+
+[Awesome README](https://github.com/matiassingers/awesome-readme)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
+
+## Appendix
+
+Any additional information goes here
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+MIT License
+
+Copyright (c) 2023 ASHISH KUMAR MISHRA
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
