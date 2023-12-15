@@ -140,6 +140,9 @@ The platform includes a search feature that allows users to search for both movi
 
     ![New password](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/1149e38e-07a5-4f62-b50a-49ded6118c6e)
 
+- **Give your valuable reviews by clicking on the Rating**
+
+    ![Rating-the-movie](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/536b2f20-fd2b-431a-88f2-6f29c69f06d7)
 
 
 
