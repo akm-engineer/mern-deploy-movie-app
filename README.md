@@ -30,3 +30,24 @@ Furthermore, users have the flexibility to refine their movie reviews by leverag
 4. Open the folder in VS Code
 5. Open the terminal and add ```npm install```
 6. Run the command ```npm start```
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`JWT_SECRET`
+
+`MONGO_URL`
+
+`MAIL_TRAP_USER`
+
+`MAIL_TRAP_PASS`
+
+`CLOUD_API_SECRE`
+
+`CLOUD_API_KEY`
+
+`CLOUD_NAME`
+
+`PASSWORD_URL`
+
