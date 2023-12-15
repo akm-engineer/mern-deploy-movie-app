@@ -82,7 +82,7 @@ The platform includes a search feature that allows users to search for both movi
 ## User Panel
 ![users-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/5c5e7025-517e-48f1-9aee-a46b25b6624c)
 
-The User Panel provides users with a rich array of features for an engaging experience:
+- The User Panel provides users with a rich array of features for an engaging experience:
 
 1. **Movie Catalog:**
     Access a comprehensive list of movies uploaded by administrators.
@@ -107,5 +107,6 @@ The User Panel provides users with a rich array of features for an engaging expe
 
 8. **Related Movies:**
     Discover related movies based on tags, allowing you to explore content with similar themes or genres.
-This user-centric approach aims to provide a seamless and interactive platform, enhancing your overall experience and connection with the content.
+- This user-centric approach aims to provide a seamless and interactive platform, enhancing your overall experience and connection with the content.
+
 
