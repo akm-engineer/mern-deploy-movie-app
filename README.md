@@ -54,6 +54,7 @@ To run this project, you will need to add the following environment variables to
 ## Getting into the Project
 ## Admin Panel
 This homepage provides an overview of our platform, displaying key metrics such as the total number of uploaded movies, the overall count of registered users, and the number of reviews contributed by authorized users. Additionally, it features a comprehensive list of all uploaded movies, allowing administrators to designate them as either public or private. Private movies are exclusively accessible to admin users. Users can easily edit movie details, ensuring accurate information, and remove any irrelevant movies through the deletion functionality.
+Furthermore, on the right side of the homepage, users can find a section highlighting the top-rated movies. These rankings are determined based on the number of reviews submitted by users, providing a glance at the most highly regarded films on the platform.
 ![admin-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/c7c7c17f-eb9e-4e4a-b7dd-77f47fc9c93d)
 
     
