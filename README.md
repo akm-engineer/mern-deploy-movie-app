@@ -53,4 +53,6 @@ To run this project, you will need to add the following environment variables to
 
 ## Getting into the Project
 ## Admin Panel
+![admin-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/c7c7c17f-eb9e-4e4a-b7dd-77f47fc9c93d)
+
 
