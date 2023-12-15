@@ -74,5 +74,7 @@ Adding the **Trailer** of the Movie
 The 'Actors' section is designed exclusively for administrators, providing a centralized repository of all actors, both male and female, associated with the movies. Admins have the privilege of performing CRUD operations on actors, enabling them to add, view, update, and delete actor details. The actor form within this section serves as a dedicated tool for admins to input and modify basic actor information, ensuring that the platform maintains accurate and relevant actor details accessible only to authorized administrators.
 The platform includes a search feature that allows users to search for both movies and actors seamlessly. This search area provides a convenient tool for users to find specific movies or actors quickly. Whether looking for a particular film or actor, users can enter relevant keywords into the search bar, and the platform will return results that match the search criteria. This functionality enhances user experience by making it easy to locate specific content without navigating through extensive lists manually.
 ![admin-panel-actors](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/44307af8-2cd8-416b-81ba-29f9598aabce)
+
+**Updating the Actor Section**
 ![updateing-actor](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/2d3f1b70-164a-4dcb-9dab-4df3c9d5b6e4)
     
