@@ -1,4 +1,4 @@
-
+![details-selecting-any-cast](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/09d120f4-dc4f-42f0-99a4-ce96e792be05)
 ![Logo](https://github.com/akm-engineer/mern-deploy-movie-app/blob/master/app/public/favicon.png?raw=true)
 
 
@@ -52,7 +52,7 @@ To run this project, you will need to add the following environment variables to
 `PASSWORD_URL`
 
 ## Getting into the Project
-## Admin Panel
+### Admin Panel
 - This **homepage** provides an overview of our platform, displaying key metrics such as the total number of uploaded movies, the overall count of registered users, and the number of reviews contributed by authorized users. Additionally, it features a comprehensive list of all uploaded movies, allowing administrators to designate them as either public or private. Private movies are exclusively accessible to admin users. Users can easily edit movie details, ensuring accurate information, and remove any irrelevant movies through the deletion functionality.
 Furthermore, on the right side of the homepage, users can find a section highlighting the top-rated movies. These rankings are determined based on the number of reviews submitted by users, providing a glance at the most highly regarded films on the platform.
 
@@ -79,7 +79,7 @@ The platform includes a search feature that allows users to search for both movi
 
 ![updateing-actor](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/2d3f1b70-164a-4dcb-9dab-4df3c9d5b6e4)
 
-## User Panel
+### User Panel
 ![users-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/5c5e7025-517e-48f1-9aee-a46b25b6624c)
 
 - The User Panel provides users with a rich array of features for an engaging experience:
@@ -94,7 +94,7 @@ The platform includes a search feature that allows users to search for both movi
     Click on a movie to watch its trailer, gaining a preview of the content.
 
 4. **User Ratings:**
-    Sign up and become authorized to rate movies, express your opinions and contribute to the community.
+    Sign up and become authorized to rate movies, express your opinions, and contribute to the community.
 
 5. **Reviews Section:**
     View reviews made by other users, gaining insights into different perspectives on each movie.
@@ -108,5 +108,13 @@ The platform includes a search feature that allows users to search for both movi
 8. **Related Movies:**
     Discover related movies based on tags, allowing you to explore content with similar themes or genres.
 - This user-centric approach aims to provide a seamless and interactive platform, enhancing your overall experience and connection with the content.
+
+**Preview of Movie**
+![selecting-any-movie-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/d5dea87d-27a2-47ea-9912-ab8c3d9eeb1d)
+
+**Preview of any Cast**
+![details-selecting-any-cast](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/e4d2ccc7-5ec3-4e0c-add5-a5125ba1982a)
+
+
 
 
