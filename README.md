@@ -23,31 +23,17 @@ Furthermore, users have the flexibility to refine their movie reviews by leverag
 
 ## Steps to run the project on your machine
 
-Clone the project
+1. Download the Vs Code IDE on your machine
 
-```bash
-  git clone https://link-to-project
-```
+2. Download the zip file of GitHub repository or clone the repository using ```  git clone https://github.com/akm-engineer/mern-deploy-movie-app.git  ```
 
-Go to the project directory
+3. Extract all the files in the folder on your device
 
-```bash
-  cd my-project
-```
+4. Open the folder in VS Code
 
-Install dependencies
+5. Open the terminal and add ```  npm install  ``` to Download all dependencies
 
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
-
+6. Run the command   ```  npm start  ```   to start the server and front-end in a separate terminal
 
 ## Environment Variables
 
