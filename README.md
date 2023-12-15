@@ -1,4 +1,3 @@
-![details-selecting-any-cast](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/09d120f4-dc4f-42f0-99a4-ce96e792be05)
 ![Logo](https://github.com/akm-engineer/mern-deploy-movie-app/blob/master/app/public/favicon.png?raw=true)
 
 
