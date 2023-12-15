@@ -84,8 +84,7 @@ The platform includes a search feature that allows users to search for both movi
   ![updateing-actor](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/2d3f1b70-164a-4dcb-9dab-4df3c9d5b6e4)
 
 ### User Panel
-
-    ![user](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/afd5b1ff-fb88-4564-8995-b078ba9a796d)
+ ![user](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/afd5b1ff-fb88-4564-8995-b078ba9a796d)
 
 
 - The User Panel provides users with a rich array of features for an engaging experience:
