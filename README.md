@@ -81,7 +81,7 @@ The platform includes a search feature that allows users to search for both movi
 
 - **Updating the Actor Section**
 
-    ![updateing-actor](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/2d3f1b70-164a-4dcb-9dab-4df3c9d5b6e4)
+  ![updateing-actor](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/2d3f1b70-164a-4dcb-9dab-4df3c9d5b6e4)
 
 ### User Panel
     ![users-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/5c5e7025-517e-48f1-9aee-a46b25b6624c)
