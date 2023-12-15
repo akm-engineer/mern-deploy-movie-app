@@ -109,11 +109,17 @@ The platform includes a search feature that allows users to search for both movi
     Discover related movies based on tags, allowing you to explore content with similar themes or genres.
 - This user-centric approach aims to provide a seamless and interactive platform, enhancing your overall experience and connection with the content.
 
-**Preview of Movie**
-![selecting-any-movie-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/d5dea87d-27a2-47ea-9912-ab8c3d9eeb1d)
+- **Preview of Movie**
 
-**Preview of any Cast**
-![details-selecting-any-cast](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/e4d2ccc7-5ec3-4e0c-add5-a5125ba1982a)
+    ![selecting-any-movie-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/d5dea87d-27a2-47ea-9912-ab8c3d9eeb1d)
+
+- **Preview of any Cast**
+    ![details-selecting-any-cast](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/e4d2ccc7-5ec3-4e0c-add5-a5125ba1982a)
+
+- **Sign-up Form**
+
+   ![sign-up-form](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/de752f6a-d542-4294-89a0-d3f92ceea408)
+ 
 
 
 
