@@ -51,3 +51,6 @@ To run this project, you will need to add the following environment variables to
 
 `PASSWORD_URL`
 
+## Getting into the Project
+## Admin Panel
+
