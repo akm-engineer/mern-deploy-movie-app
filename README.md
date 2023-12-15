@@ -123,9 +123,19 @@ The platform includes a search feature that allows users to search for both movi
 
    ![OTP-module](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/9453252c-8053-4576-916a-2ac8da0b7bf8)
 
-- **Getting OTP at MailTrap and after putting into OTP box user logged in**
+- **Getting OTP at MailTrap and after putting OTP into box user logged in**
 
    ![mailtrap](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/6e7d10ad-111c-4a5b-8714-0d3d852507ef)
+
+- **If you forgot your password you can reset it**
+  
+  ![Reseting the pass word ](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/49d7dbd5-0498-4248-a9e0-61ba496a9227)
+
+
+- **Click on this link you will be redirected to another tab and set your new email**
+
+  ![New password](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/1149e38e-07a5-4f62-b50a-49ded6118c6e)
+
 
 
 
