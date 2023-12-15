@@ -144,6 +144,9 @@ The platform includes a search feature that allows users to search for both movi
 
     ![Rating-the-movie](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/536b2f20-fd2b-431a-88f2-6f29c69f06d7)
 
+- **All the reviews made by users and you can also find and edit your review by clicking on Find my Review**
+
+    ![allthereviews](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/4c9aacfb-27c9-478e-98a2-6997c954e9a4)
 
 
 
