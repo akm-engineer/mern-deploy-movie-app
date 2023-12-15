@@ -23,12 +23,31 @@ Furthermore, users have the flexibility to refine their movie reviews by leverag
 
 ## Steps to run the project on your machine
 
-1. Download the Vs Code IDE on your machine
-2. Download the zip file of the GitHub repository
-3. Extract all the files in the folder on your device
-4. Open the folder in VS Code
-5. Open the terminal and add ```npm install```
-6. Run the command ```npm start```
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
 
 ## Environment Variables
 
