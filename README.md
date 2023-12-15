@@ -63,10 +63,12 @@ Users have the flexibility to personalize their experience on the platform by ch
 The 'Movies' section serves as a comprehensive hub for all activities related to movies, facilitating CRUD (Create, Read, Update, Delete) operations. Users can seamlessly manage and manipulate movie data, including adding new entries, viewing existing details, updating information, and removing irrelevant content. This centralized area ensures efficient and user-friendly control over all aspects of the movie-related functionalities on the platform.
 ![admin-panel-movies](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/b02d0560-2a06-4839-89cd-408997ed734d)
 
-Adding the Trailer of the Movie
+Adding the **Trailer** of the Movie
+
 ![adding-movie-1](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/072e7dce-6881-49dd-b38d-ec166c433c82)
 
-While the trailer is currently in the process of uploading to our cloud storage, we can fill the remaining details
+**While the trailer is currently in the process of uploading to our cloud storage, we can fill in the remaining details.**
+
 ![adding-movie-2](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/1062d892-a0c0-4f26-a05b-7deaa73bead4)
 
 The 'Actors' section is designed exclusively for administrators, providing a centralized repository of all actors, both male and female, associated with the movies. Admins have the privilege of performing CRUD operations on actors, enabling them to add, view, update, and delete actor details. The actor form within this section serves as a dedicated tool for admins to input and modify basic actor information, ensuring that the platform maintains accurate and relevant actor details accessible only to authorized administrators.
