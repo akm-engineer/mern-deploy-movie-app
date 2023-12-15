@@ -5,7 +5,7 @@
 # 5 Star MRP
 
 
-Introducing a cutting-edge movie review application with the latest MERN (MongoDB, Express.js, React.js, Node.js) technologies. This feature-rich platform boasts both an admin panel and a user panel, offering a seamless experience for movie enthusiasts.
+I am introducing a cutting-edge movie review application with the latest MERN (MongoDB, Express.js, React.js, Node.js) technologies. This feature-rich platform boasts both an admin panel and a user panel, offering a seamless experience for movie enthusiasts.
 
 Within the admin panel, administrators have the privilege to effortlessly upload and manage movies via a user-friendly form, as well as add and update actor information. On the user panel, individuals can explore a curated collection of movies, access engaging trailers, and provide insightful ratings—exclusively available to authenticated users.
 
@@ -53,6 +53,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Getting into the Project
 ## Admin Panel
+This homepage provides an overview of our platform, displaying key metrics such as the total number of uploaded movies, the overall count of registered users, and the number of reviews contributed by authorized users. Additionally, it features a comprehensive list of all uploaded movies, allowing administrators to designate them as either public or private. Private movies are exclusively accessible to admin users. Users can easily edit movie details, ensuring accurate information, and remove any irrelevant movies through the deletion functionality.
 ![admin-panel](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/c7c7c17f-eb9e-4e4a-b7dd-77f47fc9c93d)
 
-
+    
