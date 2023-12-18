@@ -1,4 +1,5 @@
-![Logo](https://github.com/akm-engineer/mern-deploy-movie-app/blob/master/app/public/favicon.png?raw=true)
+
+![favicon](https://github.com/akm-engineer/mern-deploy-movie-app/assets/118009781/8c8b796d-2006-4eab-a8b3-cab577181ad0)
 
 
 # 5 Star MRP
